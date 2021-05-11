@@ -16,8 +16,10 @@ published: false
 ![](https://storage.googleapis.com/zenn-user-upload/y1sqais4fo9e3cfvx4d3q884y650)
 
 ダウンロードはこちら：
-iOS: https://apps.apple.com/jp/app/clip-games/id1538577060
-Android: https://play.google.com/store/apps/details?id=com.clipgames.app
+iOS:
+https://apps.apple.com/jp/app/clip-games/id1538577060
+Android:
+https://play.google.com/store/apps/details?id=com.clipgames.app
 
 # 何が出来るの？
 
@@ -25,13 +27,14 @@ Android: https://play.google.com/store/apps/details?id=com.clipgames.app
   - ファミコンからPS5まで、**5000本近くのタイトル**からあなたが遊んだゲームのレビューを残すことが出来ます。
   - 他の人のレビューやそのゲームの評価も見ることが出来ます。
 - 遊びたいと思ったゲームや気になっているゲームを**クリップ**することが出来ます。
-  - クリップしたゲームはいつでもプロフィールからすぐに確認できるので、ふとゲームやりたくなったときにすぐに思い出すことが出来ます。
+  - クリップしたゲームはいつでもプロフィールからすぐに確認できるので、ふとゲームがやりたくなったときにすぐに思い出すことが出来ます。
 - 書いたレビューは**SNSでシェア**することが出来ます。
   - レビューはアプリに直接遷移するリンク付きでTwitterなどにシェアすることで、自分がゲームをプレイしたことを伝えることが出来ます。
 
 ### 目指した姿
 
-先行者がいなかったことから、当たり前のことが当たり前にできるレビュープラットフォームを目指しています。また、UIはTwitchのようにゲーマーに愛されやすいスタイリッシュな画面を目指しました。
+個人的には「みんなの感想や思い出が集まるプラットフォーム」を目指していますが、1stリリースにあたっては当たり前のことが当たり前にできるSNSを目指しています。
+また、UIはTwitchのようにゲーマーに愛されやすいスタイリッシュな画面を目指しました。
 
 ## アプリ内画面一覧
 
@@ -177,8 +180,10 @@ SNS系のアプリの難しいところですが、そのサービスに投稿�
 ![](https://storage.googleapis.com/zenn-user-upload/y1sqais4fo9e3cfvx4d3q884y650)
 
 ダウンロードはこちら：
-iOS: https://apps.apple.com/jp/app/clip-games/id1538577060
-Android: https://play.google.com/store/apps/details?id=com.clipgames.app
+iOS:
+https://apps.apple.com/jp/app/clip-games/id1538577060
+Android:
+https://play.google.com/store/apps/details?id=com.clipgames.app
 
 # フィードバック・問い合わせ
 
