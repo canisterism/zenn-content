@@ -3,7 +3,7 @@ title: "【Flutter】個人開発でゲームレビューアプリをリリー�
 emoji: "👾"
 type: "idea"
 topics: ["個人開発", "Flutter", "Firebase", "nodejs", "algolia"]
-published: false
+published: true
 ---
 
 **個人開発でゲームレビューアプリ「clip-games」** をリリースしました！
