@@ -86,7 +86,7 @@ clip-gamesの開発を始めた2020年は業務でFlutterを書き始めた年�
 clip-gamesの技術スタックについて紹介します。
 
 - モバイルアプリ: Flutter 
-  - 状態管理: Freezed + StateNotifier
+  - 状態管理: Riverpod +  StateNotifier + Freezed
 - バックエンド: Firebase
   - 認証: Firebase Authentication
   - DB: Firestore
